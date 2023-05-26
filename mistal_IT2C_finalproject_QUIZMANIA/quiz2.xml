@@ -1,0 +1,111 @@
+<quiz>
+  <question>
+    <text>Question 1: What is the capital of Austaralia?</text>
+    <options>
+      <option>Mellbourne</option>
+      <option>Sydney</option>
+      <option>Canberra</option>
+      <option>Brisbane</option>
+    </options>
+    <answer>Canberra</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the national animal of Scotland?</text>
+    <options>
+      <option>Unicorn</option>
+      <option>Eagle</option>
+      <option>Lion</option>
+      <option>Elephant</option>
+    </options>
+    <answer>Unicorn</answer>
+  </question>
+  <!-- Add more questions here -->
+  <question>
+    <text>Question 3: Which country is the smallest?</text>
+    <options>
+      <option>Madagascar</option>
+      <option>Sweden</option>
+      <option>Vatican City</option>
+      <option>Fiji</option>
+    </options>
+    <answer>Vatican City</answer>
+  </question>
+  <!-- Add more questions here -->
+  <question>
+    <text>Question 4: Which country is the largest?</text>
+    <options>
+      <option>India</option>
+      <option>China</option>
+      <option>USA</option>
+      <option>Russia</option>
+    </options>
+    <answer>Russia</answer>
+  </question>
+  <!-- Add more questions here -->
+  <question>
+    <text>Question 5: Which country is called the rising sun?</text>
+    <options>
+      <option>Japan</option>
+      <option>North Korea</option>
+      <option>South Korea</option>
+      <option>Taiwan</option>
+    </options>
+    <answer>Japan</answer>
+  </question>
+  <!-- Add more questions here -->
+  <question>
+    <text>Question 6: Which mammal is the largets?</text>
+    <options>
+      <option>Blue Whale</option>
+      <option>Elephant</option>
+      <option>Ostrich</option>
+      <option>Shark</option>
+    </options>
+    <answer>Blue Whale</answer>
+  </question>
+  <!-- Add more questions here -->
+  <question>
+    <text>Question 7: What is the highest mountain in the world?</text>
+    <options>
+      <option>Mt. Everest</option>
+      <option>Mt. Apo</option>
+      <option>Mt. Kilimanjaro</option>
+      <option>Mt. Aconcagua</option>
+    </options>
+    <answer>Mt. Everest</answer>
+  </question>
+  <!-- Add more questions here -->
+  <question>
+    <text>Question 8: Who was the firs president of USA?</text>
+    <options>
+      <option>George Washington</option>
+      <option>Abraham Lincoln </option>
+      <option>Thomas Jefferson</option>
+      <option>Benjamin Franklin</option>
+    </options>
+    <answer>George Washington</answer>
+  </question>
+  <!-- Add more questions here -->
+  <question>
+    <text>Question 9: Who was the first person on the moon?</text>
+    <options>
+      <option>John Glenn</option>
+      <option>Yuri Gagarin</option>
+      <option>Neil Armstrong</option>
+      <option>Sally Ride</option>
+    </options>
+    <answer>Neil Armstrong</answer>
+  </question>
+  <!-- Add more questions here -->
+  <question>
+    <text>Question 10: Who wrote Hamlet?</text>
+    <options>
+      <option>William Golding</option>
+      <option>William Henry Harrison</option>
+      <option>William Shakespear</option>
+      <option>William Holden</option>
+    </options>
+    <answer>William Shakespear</answer>
+  </question>
+  <!-- Add more questions here -->
+</quiz>
